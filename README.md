@@ -39,10 +39,4 @@ Each session follows a **guided structure**:
 * Adaptable for individual sessions or small-group interventions.
 
 
-## License
 
-These materials are provided for **research and educational purposes**. Please cite appropriately if used in publications or derivative projects.
-
----
-
-**Contact:** For questions, adaptations, or collaboration, please open an issue in this repository.
